@@ -25,3 +25,5 @@ class(patient_data$smoker_bin_factor)
 
 #saving cleaned data
 write.csv(patient_data, file = "clean_data/patient_info_clean.csv", row.names = FALSE)
+save.image(file = "IrfanAhmedRifat_Class_Ib_Assignment.RData")
+
