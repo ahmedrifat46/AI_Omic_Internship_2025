@@ -60,4 +60,4 @@ Module_I/
 ---
 
 ##  Author
-**Your Name** – AI Omics Internship 2025 Participant  
+**Irfan Ahmed Rifat**
