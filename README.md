@@ -19,8 +19,8 @@ Module_I/
 ├── raw_data/             # Original datasets (patient_info.csv)
 ├── clean_data/           # Cleaned datasets (patient_info_clean.csv)
 ├── scripts/              # R scripts (class_Ib.R)
-├── results/              # Output tables or task results (if any)
-├── plots/                # Graphical outputs (if any)
+├── results/              # Output tables or task results 
+├── plots/                # Graphical outputs 
 ├── Module_I.Rproj        # RStudio project file
 └── README.md             # Project description (this file)
 ```
