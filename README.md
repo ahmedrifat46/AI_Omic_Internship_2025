@@ -39,7 +39,7 @@ Module_I/
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 **File:** `patient_info.csv`  
 **Rows:** 20  
 **Columns:**  
